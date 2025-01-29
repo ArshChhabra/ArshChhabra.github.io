@@ -1,5 +1,8 @@
 # Neural Painter: AI-Generated Art from Stories & Poems
 
+![](Images/Cubist-RedRidingHood.png)
+![](Images/Surreal-RedRidingHood.png)
+
 ## Project Description
 **Neural Painter** is an AI-powered application that transforms **poems, short stories, or descriptive text** into **dramatic paintings** in user-selected artistic styles. Using **natural language processing (NLP)** and **text-to-image neural networks**, this project aims to bring literature to life as visual art.
 
